@@ -1,7 +1,6 @@
 # TON New Year Ruffle
 
-https://ton.org.in/ny/
-https://betkingy.com/#/ny
+[ton.org.in/ny](https://ton.org.in/ny/) or [https://betkingy.com/#/ny](https://betkingy.com/#/ny)
 
 
 # How does it work?
