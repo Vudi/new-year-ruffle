@@ -1,11 +1,27 @@
-# new-year-ruffle
+# TON New Year Ruffle
+
 https://ton.org.in/ny/
+https://betkingy.com/#/ny
 
-# Info
-[0; 10) - забрать 1/2
 
-[10; 1000) - забрать х5
+# How does it work?
 
-[1000; 2000) - забрать х2
+The contract accepts only the 1 TON bids (other amounts will be returned).
+The smart-contract generates a random number from 0 to 10000 to determine if you win or not.
 
-[2000; 9999] - ничего.
+If a person wins, he get his winnings reduced by our commission of 10%. The rest of the contract balance remains untouched.
+The winner will receive a message about the win in a transaction comment.
+
+
+# Probability
+0.1% to win the Jackpot (half of the contract balance)
+[0; 10)
+
+9.9% to win 5 TON.
+[10; 1000)
+
+10% to win 2 TON.
+[1000; 2000)
+
+If there is no win, nothing happens.
+[2000; 9999]
