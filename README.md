@@ -24,3 +24,7 @@ The winner will receive a message about the win in a transaction comment.
 
 If there is no win, nothing happens.
 [2000; 9999]
+
+# Address 
+
+https://tonapi.io/account/EQBNQOVVKmZFl0sBINWUgAEfUFAiyrOVvdgm2WNUyJYNcgZq
